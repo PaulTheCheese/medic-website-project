@@ -1,0 +1,17 @@
+.admin-navbar {
+    background-color: var(--secondary-color);
+    border-bottom: 2px solid var(--error-color);
+  }
+  
+  .admin-navbar .nav-logo p {
+    color: var(--error-color);
+    font-weight: bold;
+  }
+  
+  .admin-navbar .link-style:hover {
+    color: var(--error-color);
+  }
+  
+  .admin-navbar .nav-underline {
+    background-color: var(--error-color);
+  }
